@@ -1,0 +1,16 @@
+/home/null/Documents/C#/prjCovidVac/bin/Debug/net5.0/prjCovidVac
+/home/null/Documents/C#/prjCovidVac/bin/Debug/net5.0/prjCovidVac.deps.json
+/home/null/Documents/C#/prjCovidVac/bin/Debug/net5.0/prjCovidVac.runtimeconfig.json
+/home/null/Documents/C#/prjCovidVac/bin/Debug/net5.0/prjCovidVac.runtimeconfig.dev.json
+/home/null/Documents/C#/prjCovidVac/bin/Debug/net5.0/prjCovidVac.dll
+/home/null/Documents/C#/prjCovidVac/bin/Debug/net5.0/ref/prjCovidVac.dll
+/home/null/Documents/C#/prjCovidVac/bin/Debug/net5.0/prjCovidVac.pdb
+/home/null/Documents/C#/prjCovidVac/obj/Debug/net5.0/prjCovidVac.csprojAssemblyReference.cache
+/home/null/Documents/C#/prjCovidVac/obj/Debug/net5.0/prjCovidVac.GeneratedMSBuildEditorConfig.editorconfig
+/home/null/Documents/C#/prjCovidVac/obj/Debug/net5.0/prjCovidVac.AssemblyInfoInputs.cache
+/home/null/Documents/C#/prjCovidVac/obj/Debug/net5.0/prjCovidVac.AssemblyInfo.cs
+/home/null/Documents/C#/prjCovidVac/obj/Debug/net5.0/prjCovidVac.csproj.CoreCompileInputs.cache
+/home/null/Documents/C#/prjCovidVac/obj/Debug/net5.0/prjCovidVac.dll
+/home/null/Documents/C#/prjCovidVac/obj/Debug/net5.0/ref/prjCovidVac.dll
+/home/null/Documents/C#/prjCovidVac/obj/Debug/net5.0/prjCovidVac.pdb
+/home/null/Documents/C#/prjCovidVac/obj/Debug/net5.0/prjCovidVac.genruntimeconfig.cache
